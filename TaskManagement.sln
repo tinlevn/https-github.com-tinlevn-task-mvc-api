@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagement", "TaskManagement\TaskManagement.csproj", "{008692EB-A1C4-4D1F-A4DB-9EE5B5324DF0}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TaskDB", "TaskDB\TaskDB.sqlproj", "{14B66A94-DA02-4E38-B573-C1A1234F5321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008692EB-A1C4-4D1F-A4DB-9EE5B5324DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008692EB-A1C4-4D1F-A4DB-9EE5B5324DF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008692EB-A1C4-4D1F-A4DB-9EE5B5324DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008692EB-A1C4-4D1F-A4DB-9EE5B5324DF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B66A94-DA02-4E38-B573-C1A1234F5321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B66A94-DA02-4E38-B573-C1A1234F5321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B66A94-DA02-4E38-B573-C1A1234F5321}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{14B66A94-DA02-4E38-B573-C1A1234F5321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B66A94-DA02-4E38-B573-C1A1234F5321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B66A94-DA02-4E38-B573-C1A1234F5321}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {424D6B84-0BA7-4FC1-BD88-E2418BC3E302}
+	EndGlobalSection
+EndGlobal
